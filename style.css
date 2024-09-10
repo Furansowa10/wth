@@ -1,0 +1,30 @@
+h1{ 
+    color:#0000ff;
+    font: 2050;
+    font-stretch: expanded;
+}
+
+
+h2{
+
+    color:blueviolet;
+    font-size: x-large;
+    font-weight: 400;
+    border: 0cqmax;
+
+}
+
+
+button{
+    color:rgba(255, 0, 0, 0.116);
+    font-size: xx-large;
+    border-radius: 0cqi;
+    border-color: beige;
+    box-shadow: #0000ff;
+    object-position: 0cqmin;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+    
+}
